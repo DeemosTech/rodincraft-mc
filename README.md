@@ -17,6 +17,8 @@ To get started, make sure you have **Fabric** and the **Fabric API** installed. 
 
 Next, download the latest version of this mod from the [Releases](https://github.com/DeemosTech/rodincraft-mc/releases) page and also place the `.jar` file into your `mods` folder.
 
+**Or you can install through the mrpacks provided [here](https://github.com/DeemosTech/rodincraft-mc/releases)**
+
 ## Usage
 
 Press **U** to open the screen. 
