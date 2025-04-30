@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "top.gregtao.deemos.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "ClientPlayNetworkHandlerMixin",
+    "ItemColorsMixin"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "dmodel:item/modeler_tnt_layer0",
+    "layer1": "dmodel:item/modeler_tnt_layer1"
+  }
+}

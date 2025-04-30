@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "dmodel",
+	"version": "${version}",
+	"name": "D-Model",
+	"description": "D-Model",
+	"authors": [
+		"GregTao"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "All rights reserved",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"top.gregtao.deemos.RodinServer"
+		],
+		"client": [
+			"top.gregtao.deemos.RodinClient"
+		]
+	},
+	"mixins": [
+		"dmodel.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.16",
+		"java": ">=8",
+		"fabric": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
