@@ -11,7 +11,7 @@
 		"homepage": "https://hyper3d.ai/",
 		"sources": "https://github.com/DeemosTech/rodincraft-mc"
 	},
-	"license": "MIT",
+	"license": "GPL v3.0",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
