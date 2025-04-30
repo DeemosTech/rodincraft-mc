@@ -2,16 +2,16 @@
 	"schemaVersion": 1,
 	"id": "dmodel",
 	"version": "${version}",
-	"name": "D-Model",
-	"description": "D-Model",
+	"name": "RodinCraft",
+	"description": "RodinCraft",
 	"authors": [
-		"GregTao"
+		"RodinCraft Team"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://hyper3d.ai/",
+		"sources": "https://github.com/DeemosTech/rodincraft-mc"
 	},
-	"license": "All rights reserved",
+	"license": "MIT",
 	"environment": "*",
 	"entrypoints": {
 		"main": [

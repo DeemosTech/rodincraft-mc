@@ -7,7 +7,9 @@
 
 -------------------
 
-![readme_image.png](readme_image.png)
+## Powered by [Hyper3D.AI](https://hyper3d.ai/) Rodin Gen-1.5
+
+![cover.png](cover.png)
 
 This is a Minecraft mod built for the Fabric modding platform, designed to support the conversion of Rodin 3D models (.glb) into Minecraft. 
 
