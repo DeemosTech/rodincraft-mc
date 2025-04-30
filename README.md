@@ -5,8 +5,6 @@
   <img src="https://img.shields.io/github/issues/DeemosTech/rodincraft-mc" alt="GitHub Issues"/>
 </p>
 
--------------------
-
 ## Powered by [Hyper3D.AI](https://hyper3d.ai/) Rodin Gen-1.5
 
 ![cover.png](cover.png)
