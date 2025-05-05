@@ -33,4 +33,6 @@ Adjust the parameters on the left to fine-tune the generation process. Once you'
 
 **You have 20 trials per day. If you need more, please visit [our official website](https://hyper3d.ai/).**
 
+https://github.com/user-attachments/assets/1ada475e-debc-4e3c-9b8c-01997e290fae
+
 ### Inspired by [Timothy_Barnes](https://www.reddit.com/r/StableDiffusion/comments/1jshond/i_added_voxel_diffusion_to_minecraft/)
